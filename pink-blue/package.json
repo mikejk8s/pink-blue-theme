@@ -1,0 +1,37 @@
+{
+    "name": "pink-blue",
+    "displayName": "pink-blue",
+    "description": "A pink and blue theme",
+    "version": "0.0.1",
+	"publisher": "mikejk8s",
+	"maintainers": [
+		"Mike Johnson <mike@mikej.dev>"
+	],
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/mikejk8s/pink-blue-theme.git"
+	},
+    "engines": {
+        "vscode": "^1.61.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+	"keywords": [
+		"dark",
+		"modern",
+		"contrasting"
+        "pink",
+        "cyan",
+        "hot pink"
+	],
+    "contributes": {
+        "themes": [
+            {
+                "label": "pink-blue",
+                "uiTheme": "vs-dark",
+                "path": "./themes/pink-blue-color-theme.json"
+            }
+        ]
+    }
+}
