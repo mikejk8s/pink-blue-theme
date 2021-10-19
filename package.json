@@ -1,6 +1,6 @@
 {
-    "name": "pink-blue",
-    "displayName": "pink-blue",
+    "name": "pink-cyan",
+    "displayName": "pink-cyan",
     "description": "A pink and blue theme",
     "version": "0.0.1",
 	"publisher": "mikejk8s",
@@ -20,7 +20,7 @@
 	"keywords": [
 		"dark",
 		"modern",
-		"contrasting"
+		"contrasting",
         "pink",
         "cyan",
         "hot pink"
@@ -28,9 +28,9 @@
     "contributes": {
         "themes": [
             {
-                "label": "pink-blue",
+                "label": "pink-cyan",
                 "uiTheme": "vs-dark",
-                "path": "./themes/pink-blue-color-theme.json"
+                "path": "./themes/pink-cyan-color-theme.json"
             }
         ]
     }
