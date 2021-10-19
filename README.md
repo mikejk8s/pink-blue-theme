@@ -12,4 +12,4 @@ This is a basic fork of the morgan.codes-theme by @morganrmarie which is availab
 https://marketplace.visualstudio.com/items?itemName=morgan-codes.morgan-codes-vscode-theme
 https://github.com/morganrmarie/morgancodes-vscode-theme
 
-![theme example](https://github.com/mikejk8s/pink-blue-theme/raw/master/images/pink-cyan.jpg)
+![theme example](https://raw.githubusercontent.com/mikejk8s/pink-blue-theme/Main/images/pink-cyan.png)
