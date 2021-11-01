@@ -2,7 +2,7 @@
     "name": "pink-cyan",
     "displayName": "pink-cyan",
     "description": "A pink and blue theme",
-    "version": "0.0.1",
+    "version": "0.0.2",
 	"publisher": "mikejk8s",
 	"maintainers": [
 		"Mike Johnson <mike@mikej.dev>"
@@ -25,6 +25,11 @@
         "cyan",
         "hot pink"
 	],
+	"icon": "pink-cyan-logo.png",
+	"galleryBanner": {
+		"color": "#000000",
+		"theme": "dark"
+	},
     "contributes": {
         "themes": [
             {
